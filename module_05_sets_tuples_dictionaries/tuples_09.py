@@ -1,0 +1,11 @@
+animals_tuple = ('Cat', 'Turtle', 'Snake', 'Dog', 'Cat', 'Turtle')
+animals_list = list(animals_tuple)
+print(animals_list)
+animals_str = ', '.join(animals_tuple)
+print(animals_str)
+animals_set = set(animals_tuple)
+print(animals_set)
+
+animals_tuple_1 = (('Cat', 'Кот'), ('Turtle', 'Черепаха'), ('Snake', 'Змея'))
+animals_dict = dict(animals_tuple_1)
+print(animals_dict)
