@@ -1,0 +1,9 @@
+{
+  "name": "Ту-134",
+  "weight": 12,
+  "age": "10 лет",
+  "ClassName": "MyPlane",
+  "Methods": [
+    "Many Nethods"
+  ]
+}

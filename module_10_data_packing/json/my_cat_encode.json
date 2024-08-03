@@ -1,0 +1,13 @@
+{
+  "Name": "Франц",
+  "Age": 3,
+  "Gender": "самец",
+  "Methods": {
+    "get_data": [
+      "Франц",
+      3,
+      "самец"
+    ]
+  },
+  "ClassName": "MyCat"
+}
